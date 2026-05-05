@@ -157,7 +157,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ## Phase 2 — Coming Soon
 
-- Predictive Non-Adherence Model (Random Forest — early results: 98% ROC-AUC)
+- Predictive Non-Adherence Model (Random Forest — early results: 98% accuracy)
 - Time-to-first-refill analysis
 - Cost-of-non-adherence modelling
 
